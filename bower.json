@@ -1,0 +1,11 @@
+{
+  "name": "wustl-patternlab",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "modernizr": "~2.6.2"
+  },
+  "devDependencies": {
+    "respond": "~1.4.2"
+  }
+}
